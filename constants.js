@@ -60,7 +60,7 @@ export const SOCIAL_LINKS = [
   },
   {
     name: "instagram",
-    url: "https://www.instagram.com/mystic_man07/",
+    url: "https://www.instagram.com/vishl.__/",
   },
   {
     name: "twitter",
